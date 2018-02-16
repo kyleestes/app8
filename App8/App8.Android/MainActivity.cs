@@ -13,7 +13,7 @@ namespace App8.Droid
     public class MainActivity : global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
     {
 
-        // Benign comment
+        Benign comment
 
 
         protected override void OnCreate(Bundle bundle)
